@@ -1,0 +1,31 @@
+medical_notes
+"EMERGENCY: Patient presents with acute myocardial infarction. Severe chest pain (10/10) with radiation to left arm. 
+        Critical vital signs: BP 180/110, Heart rate 135, O2 saturation 85%. ECG shows ST elevation in V1-V4. 
+        Patient requiring immediate cardiac intervention."
+"Routine follow-up visit for mild hypertension. Patient reports feeling well. 
+        Vital signs stable: BP 128/82, Heart rate 72, Temperature 36.8°C. No complaints. 
+        Medication compliance good."
+"CRITICAL: Patient presented unconscious, Glasgow Coma Scale 6/15. Multiple trauma from MVA. 
+        Severe head injury with unequal pupils. BP 210/120, irregular heart rate 150. 
+        Immediate intubation required. Multiple fractures suspected."
+"Patient presents with mild upper respiratory symptoms. 
+        Reports occasional cough and nasal congestion for 2 days. Temperature 37.2°C. 
+        O2 saturation 98%. No respiratory distress."
+"URGENT: Severe diabetic ketoacidosis. Blood glucose 678 mg/dL. 
+        Patient confused and severely dehydrated. Ketones strongly positive. 
+        pH 7.1. Requires immediate insulin therapy and ICU admission."
+"Moderate case: Patient 5 days post-appendectomy with surgical site infection. 
+        Temperature 38.5°C, elevated WBC count. Wound showing purulent drainage. 
+        Requiring IV antibiotics but hemodynamically stable."
+"EMERGENCY: Acute respiratory failure. O2 saturation 82% on room air. 
+        Severe respiratory distress with accessory muscle use. Patient cyanotic. 
+        Requiring immediate ventilatory support. CODE BLUE initiated."
+"Minor trauma: Small laceration on finger from paper cut. 
+        Minimal bleeding, wound clean. No tendon involvement. 
+        Tetanus up to date. Simple dressing applied."
+"CRITICAL: Severe septic shock. BP 75/40 despite fluid resuscitation. 
+        Patient requiring multiple vasopressors. Lactate 8.5. 
+        Source suspected intra-abdominal. Immediate ICU care needed."
+"Follow-up visit for stable angina. Patient reports good response to medication. 
+        No recent chest pain episodes. Exercise tolerance improving. 
+        Vital signs within normal limits."

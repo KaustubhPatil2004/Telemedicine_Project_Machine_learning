@@ -1,0 +1,88 @@
+:root {
+  font-family:   Avenir, Helvetica, Arial, sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+
+  color-scheme: dark;
+  color: rgba(255, 255, 255, 0.87);
+  background-color:black;
+
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.a {
+  font-weight: 50;
+  height: 50px;
+  width: 50px;
+  background-color: #646cff;
+  text-decoration: inherit;
+  border:4px;
+}
+.a:hover {
+  color: #3bfe00;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+h1 {
+  font-size: 3.2em;
+  line-height: 1.1;
+}
+
+button {
+  border-radius: 8px;
+  border: 3px solid transparent;
+  margin: 3px;
+  padding: 0.6em 1.2em;
+  font-size: 1em;
+  font-weight: 500;
+  font-family: inherit;
+  background-color: #171818;
+  cursor: pointer;
+  transition: border-color 0.25s;
+  border-color: aqua;
+}
+button:hover,button:active {
+  border-color: #5056c5;
+}
+
+
+@media (prefers-color-scheme: light) {
+  :root {
+    color: #213547;
+    background-color: #ffffff;
+  }
+  a:hover {
+    color: #747bff;
+  }
+  button {
+    background-color: #f9f9f9;
+  }
+}
+.gokul{
+  height: 100px;
+  width :100px;
+  background-color: #5056c5;
+  margin-bottom: 5px;
+}
+#slot:hover
+{
+   background-color:aqua;
+   transition: border-color, color 0.25s;
+   border-color: aqua;
+   color :#000000
+   
+}
+#submit
+{
+  margin-top:50px;
+}
